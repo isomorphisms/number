@@ -465,4 +465,5 @@ The eventual lecture notes should distinguish three things clearly:
 - [Verified lecture map](billy-woods-lecture-map.md)
 - [Ideals as lattices](ideals-as-lattices.md)
 - [Class groups from ideal powers](class-groups-from-ideal-powers.md)
+- [Quadratic prime splitting](prime-splitting-quadratic.md)
 - [\(p\)-adic towers and compatible roots](p-adic-towers.md)
