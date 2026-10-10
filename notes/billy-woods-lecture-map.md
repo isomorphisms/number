@@ -158,6 +158,8 @@ Woods's official course page also explicitly displays ideal LCMs as lattice inte
 - [Main Woods notes](billy-woods-ant.md)
 - [Ideals as lattices](ideals-as-lattices.md)
 - [p-adic towers](p-adic-towers.md)
+- [Class groups from ideal powers](class-groups-from-ideal-powers.md)
+- [Quadratic prime splitting](prime-splitting-quadratic.md)
 
 ## Retrieval status
 
