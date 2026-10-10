@@ -13,6 +13,7 @@ Billy Woods's video course **An unorthodox introduction to algebraic number theo
 - Verified lecture map: [notes/billy-woods-lecture-map.md](notes/billy-woods-lecture-map.md)
 - Ideal/lattice geometry: [notes/ideals-as-lattices.md](notes/ideals-as-lattices.md)
 - Class groups from ideal powers: [notes/class-groups-from-ideal-powers.md](notes/class-groups-from-ideal-powers.md)
+- Quadratic prime splitting: [notes/prime-splitting-quadratic.md](notes/prime-splitting-quadratic.md)
 - \(p\)-adic towers: [notes/p-adic-towers.md](notes/p-adic-towers.md)
 
 Woods explicitly builds the course around motivation, examples, diagrams, and geometric intuition rather than a conventional theorem-proof sequence. That makes it useful here not only as a number-theory source but as a source of geometric models worth rendering or formalizing.
