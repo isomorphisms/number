@@ -27,6 +27,16 @@ Verified topics from the transcript:
 - Pythagorean triples via factorization in \(\mathbb Z[i]\);
 - Fermat exponent \(3\) via \(\mathbb Z[\omega]\).
 
+### ANT03
+
+**Ideal factorisation: recovering uniqueness**
+
+https://www.youtube.com/watch?v=jE7pxr1nzfc
+
+Published 2020-07-30.
+
+The exact title directly confirms that restoration of unique factorization at the level of ideals is a numbered part of Woods's course, not merely an inference from the image on his course page. Detailed transcript text was not exposed by the currently indexed copy, so the separate ideal/lattice note distinguishes standard background from direct Woods transcript material.
+
 ### ANT15
 
 **p-adic integers: a primer, and an application (part 1)**
@@ -134,6 +144,7 @@ Woods's official course page also explicitly displays ideal LCMs as lattice inte
 ## Retrieval status
 
 - [x] ANT01 exact metadata and transcript
+- [x] ANT03 exact title, URL, and publication date
 - [x] ANT15 exact metadata and transcript
 - [x] ANT09 topic cross-reference
 - [x] ANT10 topic cross-reference
