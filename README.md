@@ -9,7 +9,10 @@ Billy Woods's video course **An unorthodox introduction to algebraic number theo
 - Course page: https://billywoods.net/ANT.html
 - Teaching page: https://billywoods.net/teaching.html
 - YouTube playlist: https://www.youtube.com/playlist?list=PLSibAQEfLnTwq2-zCB-t9v2WvnnVKd0wn
-- Notes: [notes/billy-woods-ant.md](notes/billy-woods-ant.md)
+- Main notes: [notes/billy-woods-ant.md](notes/billy-woods-ant.md)
+- Verified lecture map: [notes/billy-woods-lecture-map.md](notes/billy-woods-lecture-map.md)
+- Ideal/lattice geometry: [notes/ideals-as-lattices.md](notes/ideals-as-lattices.md)
+- \(p\)-adic towers: [notes/p-adic-towers.md](notes/p-adic-towers.md)
 
 Woods explicitly builds the course around motivation, examples, diagrams, and geometric intuition rather than a conventional theorem-proof sequence. That makes it useful here not only as a number-theory source but as a source of geometric models worth rendering or formalizing.
 
