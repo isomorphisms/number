@@ -283,14 +283,25 @@ Confirmed directly so far:
 - [x] playlist
 - [x] ANT01 transcript/content
 - [x] ANT15 transcript/content
-- [ ] enumerate and index the remaining ANT videos
-- [ ] take lecture-by-lecture notes
-- [ ] extract diagrams worth reproducing
+- [x] add a verified lecture map without guessing missing titles
+- [x] extract ideal/lattice geometry into a reusable note
+- [x] extract the ANT15 \(p\)-adic tower/Hensel picture into a reusable note
+- [x] record ANT09–ANT11 topic cross-references from ANT15
+- [ ] recover exact ANT02–ANT14 titles and URLs
+- [ ] take lecture-by-lecture notes for the middle lectures
+- [ ] extract further diagrams worth reproducing
 - [ ] cross-reference standard texts for proofs omitted in the informal course
-- [ ] identify code-sized experiments from each lecture
+- [ ] identify additional code-sized experiments from each lecture
 
 The eventual lecture notes should distinguish three things clearly:
 
 1. what Woods actually says;
 2. standard mathematical background added here;
 3. new visualization or implementation ideas inspired by the lecture.
+
+
+## Split-out notes
+
+- [Verified lecture map](billy-woods-lecture-map.md)
+- [Ideals as lattices](ideals-as-lattices.md)
+- [\(p\)-adic towers and compatible roots](p-adic-towers.md)
