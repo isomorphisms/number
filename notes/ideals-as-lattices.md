@@ -5,6 +5,7 @@ This note develops the geometric picture highlighted on Billy Woods's algebraic-
 Source and inspiration:
 
 - Billy Woods, *An unorthodox introduction to algebraic number theory*: https://billywoods.net/ANT.html
+- Billy Woods, **[ANT03] Ideal factorisation: recovering uniqueness**: https://www.youtube.com/watch?v=jE7pxr1nzfc
 - Playlist: https://www.youtube.com/playlist?list=PLSibAQEfLnTwq2-zCB-t9v2WvnnVKd0wn
 
 Thank you to Billy Woods.
