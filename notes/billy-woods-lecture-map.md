@@ -33,9 +33,27 @@ Verified topics from the transcript:
 
 https://www.youtube.com/watch?v=jE7pxr1nzfc
 
-Published 2020-07-30.
+Published 2020-07-30. Transcript now verified directly.
 
-The exact title directly confirms that restoration of unique factorization at the level of ideals is a numbered part of Woods's course, not merely an inference from the image on his course page. Detailed transcript text was not exposed by the currently indexed copy, so the separate ideal/lattice note distinguishes standard background from direct Woods transcript material.
+Verified topics:
+
+- \(4\mathbb Z\cap6\mathbb Z=12\mathbb Z\): ideal intersection as LCM;
+- ideal containment as reversed divisibility;
+- ideals in \(\mathbb Z[i]\) drawn as lattices;
+- ideals ignore multiplication by units;
+- ideal multiplication;
+- \(4\mathbb Z+6\mathbb Z=2\mathbb Z\): ideal sum as gcd/Bézout;
+- principal versus nonprincipal ideals;
+- hidden prime-ideal factorization behind
+  \[
+  6=2\cdot3=(1+\sqrt{-5})(1-\sqrt{-5});
+  \]
+- Dedekind domains and unique factorization of ideals;
+- rational primes splitting, remaining inert, or ramifying in \(\mathbb Z[\sqrt{-5}]\);
+- the Diophantine equation \(y^3=x^2+5\);
+- the obstruction \(\mathfrak a^3\) principal with \(\mathfrak a\) not necessarily principal.
+
+ANT03 explicitly ends by handing this last question to the next video. That makes the next lecture's mathematical role clear—ideal classes / powers of nonprincipal ideals—even though its exact title should still be recovered rather than guessed.
 
 ### ANT15
 
