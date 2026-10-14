@@ -78,13 +78,7 @@ Gauss reciprocity is therefore not just an isolated congruence theorem in this v
 
 The class group should be read topologically rather than merely as a bookkeeping device for failure of unique factorization.
 
-The rough analogy is
-
-[
-H_1(M) longleftrightarrow mathrm{Cl}(K),
-]
-
-with suitable choices of the topological object and arithmetic setting.
+The rough analogy pairs the first homology group of a 3-manifold with the ideal class group of a number field, with suitable choices of the topological object and arithmetic setting.
 
 This is particularly relevant to the earlier Billy Woods notes: the class group first appears there through ideal arithmetic; Morishita gives a second interpretation through 3-manifold topology.
 
@@ -108,13 +102,7 @@ This is one of the strongest bridges in the book.
 
 Infinite cyclic covers and Alexander theory on the knot side correspond to towers of number fields and Iwasawa modules on the arithmetic side.
 
-Schematic analogy:
-
-[
-	ext{Alexander theory}
-longleftrightarrow
-	ext{Iwasawa theory}.
-]
+In this dictionary, Alexander theory on the topological side plays the role of Iwasawa theory on the arithmetic side.
 
 This is likely the point where the repository should eventually connect arithmetic topology to any existing work on (p)-adic numbers, towers, and completed group rings.
 
